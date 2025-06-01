@@ -15,6 +15,7 @@ Diagram and Bubble sort algorithm
 Schematic
 <div align="center"> <img src="/bubble_sort_design/schematic.png"> </div>
 ---
+
 ## VHDL Simulation Screenshots
 Before sorting
 <div align="center"> <img src="/bubble_sort_simulation_results/vivado_wavefrom_before_sorting.png"> </div>
