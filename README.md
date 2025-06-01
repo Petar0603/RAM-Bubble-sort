@@ -9,6 +9,12 @@ when sorting is being performed 'im_block' is writing to RAM.
 - Counter 'p' tracks the current number of locations occupied in RAM.
 
 ---
+## Internal structure diagram and schematic
+Diagram and Bubble sort algorithm
+<div align="center"> <img src="/bubble_sort_design/block diagram.png"> </div>
+Schematic
+<div align="center"> <img src="/bubble_sort_design/schematic.png"> </div>
+---
 ## VHDL Simulation Screenshots
 Before sorting
 <div align="center"> <img src="/bubble_sort_simulation_results/vivado_wavefrom_before_sorting.png"> </div>
